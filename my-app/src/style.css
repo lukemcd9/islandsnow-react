@@ -1,0 +1,20 @@
+#topmenu {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: rgb(245, 245, 245);
+    box-shadow: none;
+    border:none;
+}
+
+#middlemenu {
+    font-family: Roboto, sans-serif;
+    background-color: white;
+    box-shadow: none;
+    border: none;
+}
+
+#footer {
+    background-color: #292929;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
